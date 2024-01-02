@@ -3,7 +3,7 @@
 - 🔭 I’m currently majoring in CyberSpace Security.
 - 🌱 I’m currently learning Web Security and Cryptography.
 - 👯 I’m looking to collaborate on CTF.
-- 🧑‍💻 I usually write blogs on http://lanegong.top/
+- 🧑‍💻 I usually write blogs on https://lanegong.github.io
 - 📫 How to reach me: 1332625066@qq.com
 
 ![LaneGong's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaneGong&show_icons=true&theme=onedark&hide=contribs)
